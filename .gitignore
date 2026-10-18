@@ -9,9 +9,7 @@ out/
 src/out/
 
 # Configurações locais do IntelliJ
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/shelf/
+.idea/
 
 # Arquivos do sistema operacional
 .DS_Store
